@@ -1,0 +1,208 @@
+STEP 1: THE STORYLINE
+
+Write me a 5 line dialogue between 4 friends.
+
+STEP 2: TEXT TO IMAGE PROMPTS
+Now generate a single scene "text to image prompts" for the above story in 3D animation, Pixar-Disney style using this structure in a continuous sentences:
+[CHARACTER NAME] [gender], [age], [ethnicity/nationality], [height], [build], [skin tone], [hair length, texture, style, color], [distinct facial features + face shape + key markers, e.g., prominent cheekbones, fine stress lines]. Outfits: [fully described clothing for current stage: top and bottom, head wear, hand wear fabrics/materials role identifiers/accessories footwear]
+
+STEP 3: TEXT TO VIDEO PROMPTS
+Script the above story into 8 seconds per script. Ensure every dialogue line must be under 8 words to fit the 8-second temporal limit of the engine without changing any dialogue text in the above story. If the original script has a longer speech, you must split it into multiple shots. If the first character speech is less than 5 words, ensure that the second character speaks immediately in the same shot if the second character's dialogue is within 8 words. At no point, in the scene may a speaking or reacting character look directly into the camera, acknowledge the viewer, or break the fourth wall. All eyelines must remain diegetic and directed toward another character or an in-scene object. Characters react naturally (eye contact with the speaker, subtle gestures). Each shot must strictly follow this structure:
+
+Character DNA:
+[CHARACTER NAME] - [gender], [age], [ethnicity/nationality], [height], [build], [skin tone]. [hair length, texture, style, color], [distinct facial features + face shape + key markers, e.g., prominent cheekbones, fine stress lines). Outfits: [fully described clothing for current stage: top and bottom, head wear, hand wear fabrics/materials + role identifiers/accessories + footwear]. Voice tone/accent. 3D pixar render style.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), по axial rotation. No frontal-facing dialogue shots permitted], soft / harsh /fluorescent/cinematic contrast as appropriate.
+
+Setting:
+ [Primary location time of day], [key environment details + ambient atmosphere]. [important props), visual continuity maintained across the sequence.
+
+[Action & Lip-Sync:
+[Specific physical movement-describe brisk, fluid, natural gestures].
+[Character Name] says (direct, firm, natural conversational speed):
+"[Dialogue)" (Only include if the character speaks).
+Prioritize accurate, fast lip-sync to spoken words; natural real-time motion speed, brisk animation, no slow motion or lingering pauses.
+(Note: Lip-sync takes priority over body movement keep gestures lively and quick.)
+
+SFX/Foley:
+
+
+extend the story to 5 shots. Restart with shot 3
+
+
+----------------------------------------------------------------------------
+
+
+THE OUTPUT
+
+STEP 1 RESULT
+Alex: “So… are we all pretending this was part of the plan?”
+Maya: “Absolutely. If anyone asks, it was very intentional.”
+Jordan: “Good, because I already told people it was my idea.”
+Sam: “Perfect—then you’re the one explaining it when this goes wrong.”
+Alex: “Deal. I’ll bring snacks to the apology tour.”
+
+
+STEP 2 RESULT
+Single scene text-to-image prompt in 3D animation, Pixar–Disney style:
+Alex male, mid-20s, mixed ethnicity American, average height, lean build, light olive skin tone, short slightly wavy dark brown hair with a casual side sweep, expressive almond-shaped eyes, soft jawline, faint smile lines suggesting humor and optimism. Outfits: light blue zip-up hoodie over a graphic T-shirt, dark slim-fit jeans, no headwear, no handwear, canvas sneakers with white soles, casual backpack slung over one shoulder. 
+Maya female, mid-20s, South Asian, average height, slim-athletic build, warm medium-brown skin tone, long straight black hair worn loose with a clean center part, oval face with prominent cheekbones, sharp eyebrows, confident amused expression. Outfits: cropped mustard-yellow jacket over a white fitted top, high-waisted dark trousers, minimal gold necklace and bangles, no headwear, ankle boots in brown leather. 
+Jordan male, late-20s, Black, tall, broad-shouldered build, deep brown skin tone, short tightly curled black hair in a neat fade, square face with a strong jaw, playful smirk, slightly raised eyebrow. Outfits: red bomber jacket with subtle patches, black T-shirt, dark jeans, smartwatch on wrist, no headwear, clean white high-top sneakers. 
+Sam female, mid-20s, white European descent, short height, curvy build, fair skin with rosy undertones, chin-length curly auburn hair in a tousled bob, round face with freckles across the nose, bright curious eyes. Outfits: oversized teal sweater, black leggings, fingerless knit gloves, round-frame glasses, practical lace-up boots.
+
+Scene: all four friends standing together in a cozy modern café, warm lighting, animated expressive poses mid-conversation, cinematic depth of field, vibrant colors, soft Pixar-style textures and proportions.
+
+
+STEP 3 RESULT
+SHOT 1 — 8 seconds
+
+Character DNA:
+Alex – male, mid-20s, mixed ethnicity American, average height, lean build, light olive skin tone. Short slightly wavy dark brown hair with a casual side sweep, expressive almond-shaped eyes, soft jawline, faint smile lines. Outfits: light blue zip-up hoodie over a graphic T-shirt, dark slim-fit jeans, no headwear, no handwear, canvas sneakers with white soles, casual backpack slung over one shoulder. Voice tone: light, ironic American accent. 3D Pixar render style.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, soft cinematic contrast.
+
+Setting:
+Cozy modern café, late afternoon. Warm window light, wooden tables, soft background chatter, coffee cups and phones on the table, visual continuity maintained.
+
+Action & Lip-Sync:
+Alex leans back slightly, raises an eyebrow, glancing toward Maya.
+Alex says (direct, natural conversational speed):
+“So… are we all pretending”
+
+SFX/Foley:
+Low café ambience, ceramic cup lightly set down.
+
+
+
+
+SHOT 2 — 8 seconds
+
+Character DNA:
+Alex – same as Shot 1.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, soft cinematic contrast.
+
+Setting:
+Same café, same table, continuity preserved.
+
+Action & Lip-Sync:
+Alex tilts his head, small hand gesture toward the group.
+Alex says (direct, natural conversational speed):
+“this was part of the plan?”
+
+SFX/Foley:
+Subtle chair creak, ambient café noise.
+
+
+SHOT 3 — 8 seconds
+
+Character DNA:
+Maya – female, mid-20s, South Asian, average height, slim-athletic build, warm medium-brown skin tone. Long straight black hair worn loose with a center part, oval face, prominent cheekbones, sharp eyebrows. Outfits: cropped mustard-yellow jacket over a white fitted top, high-waisted dark trousers, gold bangles and necklace, no headwear, brown leather ankle boots. Voice tone: confident, dry humor. 3D Pixar render style.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, cinematic contrast.
+
+Setting:
+Same café, warm light reflecting off tabletops.
+
+Action & Lip-Sync:
+Maya smirks, crosses her arms, looking at Alex.
+Maya says (firm, amused):
+“Absolutely. If anyone asks, it was very intentional.”
+
+SFX/Foley:
+Soft bracelet clink, background espresso machine hiss.
+
+
+SHOT 4 — 8 seconds
+
+Character DNA:
+Jordan – male, late-20s, Black, tall, broad-shouldered build, deep brown skin tone. Short tightly curled black hair in a neat fade, square face, strong jaw, playful smirk. Outfits: red bomber jacket with subtle patches, black T-shirt, dark jeans, smartwatch, no headwear, white high-top sneakers. Voice tone: playful, confident. 3D Pixar render style.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, cinematic contrast.
+
+Setting:
+Same café, group seated closely.
+
+Action & Lip-Sync:
+Jordan shrugs casually, glancing between Sam and Alex.
+Jordan says (light, teasing):
+“Good, because I already told people”
+
+SFX/Foley:
+Fabric rustle from jacket movement.
+
+SHOT 5 — 8 seconds
+
+Character DNA:
+Jordan – as above.
+Sam – female, mid-20s, white European descent, short height, curvy build, fair skin with rosy undertones. Chin-length curly auburn hair in a tousled bob, round face with freckles, bright eyes. Outfits: oversized teal sweater, black leggings, fingerless knit gloves, round-frame glasses, lace-up boots. Voice tone: quick, witty. 3D Pixar render style.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, cinematic contrast.
+
+Setting:
+Same café, same table, continuity intact.
+
+Action & Lip-Sync:
+Jordan grins, nodding once toward Sam.
+Jordan says (casual):
+“it was my idea.”
+Sam immediately leans forward, pointing lightly at Jordan, eyes on him.
+Sam says (dry, amused):
+“Perfect—then you’re the one”
+
+SFX/Foley:
+Light finger tap on table, café ambience continues.
+
+
+
+SHOT 6 — 8 seconds
+
+Character DNA:
+Sam – same as Shot 5.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, cinematic contrast.
+
+Setting:
+Same café, warm background lighting.
+
+Action & Lip-Sync:
+Sam smiles sweetly, palms up in mock innocence, looking at Jordan.
+Sam says (matter-of-fact):
+“explaining it when this goes wrong.”
+
+SFX/Foley:
+Soft chuckle from background patrons.
+
+
+
+
+SHOT 7 — 8 seconds
+
+Character DNA:
+Alex – same as Shots 1–2.
+
+Camera:
+Static medium-wide shot, tripod-mounted, horizon locked, zero roll (0°), no frontal-facing dialogue shots permitted, soft cinematic contrast.
+
+Setting:
+Same café, golden-hour light slightly dimmer.
+
+Action & Lip-Sync:
+Alex nods decisively, reaching for his backpack, glancing around the group.
+Alex says (cheerful resignation):
+“Deal. I’ll bring snacks to the apology tour.”
+
+SFX/Foley:
+Zipper sound from backpack, ambient café fade.
+
+
+
+
+
